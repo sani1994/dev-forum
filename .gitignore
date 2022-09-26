@@ -1,0 +1,31 @@
+*.pyc
+.pytest_cache/
+*debug*php
+.buildpath
+.project
+*.egg*
+python/modules/pdfminer-20140328/build/
+build/
+dist/
+.ropeproject
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+.python-version
+venv
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+# comparisons
+comparisons_*.txt
+results_*.txt
+*/pytils
+
+# MacOS
+.DS_Store
+
+*env
