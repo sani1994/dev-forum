@@ -15,7 +15,7 @@ dist/
 .vscode/
 .python-version
 venv
-
+db.sqlite3
 # Sublime files
 *.sublime-project
 *.sublime-workspace
