@@ -29,3 +29,4 @@ results_*.txt
 .DS_Store
 
 *env
+db.*
